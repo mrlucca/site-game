@@ -1,0 +1,13 @@
+{
+    "name": "vinil/htdocs",
+    "authors": [
+        {
+            "name": "vinilucca",
+            "email": "62729176+mrlucca@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "coffeecode/router": "^1.0",
+        "twbs/bootstrap": "4.1.3"
+    }
+}
